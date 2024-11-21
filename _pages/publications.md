@@ -20,14 +20,16 @@ published: true
 ***
    
 ## 🗣️ Korean Conference Papers
-1. **Kim S**, Seo M, Kang N* (2024) Spatiotemporal Prediction of Structures via Implicit Neural Representations. *<u>KSME CAE & Applied Mechanics Division 2024 Spring Conference</u>*, May 1–4, 2024, Jeju, Korea.
+1. **Kim S**, Seo M, Kang N* (2024) 3D Spatiotemporal Prediction of Vehicle Collision Dynamics via Implicit Neural Representations. *<u>KSME Annual Meeting 2024</u>*, November 6–9, 2024, Jeju, Korea.
 
-2. **Kim S**, Lee TH* (2023) Influences of Data and Network Characteristics on Optimization Algorithm and Generalization Performance. *<u>2023 KSCM Conference on Computational Mechanics</u>*, June 29–July 1, 2023, Gangwon, Korea 
+2. **Kim S**, Seo M, Kang N* (2024) Spatiotemporal Prediction of Structures via Implicit Neural Representations. *<u>KSME CAE & Applied Mechanics Division 2024 Spring Conference</u>*, May 1–4, 2024, Jeju, Korea.
 
-3. Lee TH, **Kim S** (2023) Influences of Hyperparameters at Optimization Algorithms in Artificial Neural Network Training. *<u>KSME CAE & Applied Mechanics Division 2023 Spring Conference</u>*, May 17–20, 2023, Busan, Korea.
+3. **Kim S**, Lee TH* (2023) Influences of Data and Network Characteristics on Optimization Algorithm and Generalization Performance. *<u>2023 KSCM Conference on Computational Mechanics</u>*, June 29–July 1, 2023, Gangwon, Korea 
 
-4. Lee TH, **Kim S**, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
+4. Lee TH, **Kim S** (2023) Influences of Hyperparameters at Optimization Algorithms in Artificial Neural Network Training. *<u>KSME CAE & Applied Mechanics Division 2023 Spring Conference</u>*, May 17–20, 2023, Busan, Korea.
 
-5. **Kim S**, Kim H, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
+5. Lee TH, **Kim S**, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME Annual Meeting 2022</u>*, November 9–12, 2022, Jeju, Korea.
+
+6. **Kim S**, Kim H, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME Annual Meeting 2022</u>*, November 9–12, 2022, Jeju, Korea.
    
-6. **Kim S**, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
+7. **Kim S**, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
