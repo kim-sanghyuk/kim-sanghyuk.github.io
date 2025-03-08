@@ -10,4 +10,5 @@ permalink: /posts/2025-02-12-KAIST-Teaching
   <img src="/images/2025_KAIST_TA.jpg" alt="2025 KAIST TA" style="width: 50%;">
 </div>
 
-On February 12, 2025, I had the opportunity to assist in the KAIST Industry-Academia Course, "AI-based Design: From Analysis to Design Optimization," held in Daejeon, Republic of Korea. As a teaching assistant, I led a hands-on coding session, helping participants engage with practical exercises. Throughout the course, I worked closely with [Prof. Kang](https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en&oi=ao) to ensure smooth delivery and an interactive learning experience.
+On February 12, 2025, I had the opportunity to assist in the KAIST Industry-Academia Workshop, "AI-based Design: From Analysis to Design Optimization," held in Daejeon, Republic of Korea. As a teaching assistant, I led a hands-on coding session, helping participants engage with practical exercises. Throughout the workshop, I worked closely with [Prof. Kang](https://scholar.google.com/citations?user=tYU_Cz0AAAAJ&hl=en&oi=ao) to ensure smooth delivery and an interactive learning experience.
+
