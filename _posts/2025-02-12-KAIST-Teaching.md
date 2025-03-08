@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teaching Assistance at KAIST Industry-Academia Course 2025 in Daejeon, Republic of Korea"
+title: "Teaching Assistance at KAIST Industry-Academia Workshop 2025 in Daejeon, Republic of Korea"
 author: "Sanghyuk Kim"
 date: 2025-02-12
 permalink: /posts/2025-02-12-KAIST-Teaching
