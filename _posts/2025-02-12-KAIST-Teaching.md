@@ -3,7 +3,7 @@ layout: post
 title: "Teaching Assistance at KAIST Industry-Academia Workshop 2025 in Daejeon, Republic of Korea"
 author: "Sanghyuk Kim"
 date: 2025-02-12
-permalink: /posts/2025-02-12-KAIST-Teaching.html
+permalink: /posts/2025-02-12-KAIST-Teaching
 ---
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/2025_KAIST_TA_Poster.jpg" alt="2025 KAIST TA Poster" style="width: 50%;">
