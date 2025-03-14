@@ -2,6 +2,7 @@
 title:          Sanghyuk Kim
 description:    "Ph.D. Student at KAIST"
 url:            "https://kim-sanghyuk.github.io/"
+baseurl: ""
 
 # Google Analytics
 google_analytics: G-Y3PMVVHXSX
@@ -30,7 +31,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-include-cache
-  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-relative-links
   - jekyll-optional-front-matter
@@ -38,6 +38,7 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
+paginate_path: "/page:num/"
 
 # Excludes
 exclude:
