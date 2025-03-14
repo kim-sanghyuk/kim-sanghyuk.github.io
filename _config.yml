@@ -29,6 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
