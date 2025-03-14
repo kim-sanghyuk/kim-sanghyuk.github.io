@@ -1,6 +1,7 @@
 # Site settings
 title:          Sanghyuk Kim
 description:    "Ph.D. Student at KAIST"
+baseurl:        ""
 url:            "https://kim-sanghyuk.github.io/"
 
 # Google Analytics
