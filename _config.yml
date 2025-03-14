@@ -21,14 +21,11 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
-theme: minima
-
 # Gems
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-sitemap
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
