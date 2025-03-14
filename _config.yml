@@ -30,6 +30,10 @@ plugins:
   - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
