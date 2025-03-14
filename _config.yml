@@ -12,6 +12,7 @@ author:
   name:         Sanghyuk Kim
   url:          https://kim-sanghyuk.github.io/
   email:        sanghyukkim@kaist.ac.kr
+
 # Build settings
 markdown:       kramdown
 include:
