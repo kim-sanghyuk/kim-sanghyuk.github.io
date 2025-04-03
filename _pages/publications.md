@@ -31,3 +31,6 @@ published: true
 5. **Kim S**, Kim H, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
    
 6. **Kim S**, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *<u>KSME CAE & Applied Mechanics Division 2022 Spring Conference</u>*, May 19–21, 2022, Busan, Korea.
+
+## 🧾 Patents
+1. 암시적 신경 표현 기반의 동역학 예측 방법 및 그러한 방법이 구현된 전자 장치. *KIPO Patent Application*, 출원번호: 40-2025-0043259.
