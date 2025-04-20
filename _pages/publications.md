@@ -18,19 +18,19 @@ published: true
 
 ## 🗣️ International Conference Papers
 
-1. **Kim S**, Kim H, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *15th World Congress of Structural and Multidisciplinary Optimization\*, June 5–9, 2023, Cork, Ireland.
+1. **Kim S**, Kim H, Lee TH\* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. _15th World Congress of Structural and Multidisciplinary Optimization_, June 5–9, 2023, Cork, Ireland.
 
 ---
 
 ## 🗣️ Korean Conference Papers
 
-1. **Kim S**, Yang S, Kim S, Han J, Cho B, Song C, Kang J, Song M, Kang N* (2025) Spatio-Temporal Flow Field Prediction of Variable Multi-Cylinder Configurations via DeepONet. *KSME CAE & Applied Mechanics Division 2025 Conference\*, April 17-19, 2025, Jeju, Korea.
+1. **Kim S**, Yang S, Kim S, Han J, Cho B, Song C, Kang J, Song M, Kang N\* (2025) Spatio-Temporal Flow Field Prediction of Variable Multi-Cylinder Configurations via DeepONet. _KSME CAE & Applied Mechanics Division 2025 Conference_, April 17-19, 2025, Jeju, Korea.
 
-2. **Kim S**, Seo M, Kang N* (2024) 3D Spatiotemporal Prediction of Vehicle Collision Dynamics via Implicit Neural Representations. *KSME 2024 Conference\*, November 6–9, 2024, Jeju, Korea.
+2. **Kim S**, Seo M, Kang N\* (2024) 3D Spatiotemporal Prediction of Vehicle Collision Dynamics via Implicit Neural Representations. _KSME 2024 Conference_, November 6–9, 2024, Jeju, Korea.
 
-3. **Kim S**, Seo M, Kang N* (2024) Spatiotemporal Prediction of Structures via Implicit Neural Representations. *KSME CAE & Applied Mechanics Division 2024 Conference\*, May 1–4, 2024, Jeju, Korea.
+3. **Kim S**, Seo M, Kang N\* (2024) Spatiotemporal Prediction of Structures via Implicit Neural Representations. _KSME CAE & Applied Mechanics Division 2024 Conference_, May 1–4, 2024, Jeju, Korea.
 
-4. **Kim S**, Lee TH* (2023) Influences of Data and Network Characteristics on Optimization Algorithm and Generalization Performance. *2023 KSCM Conference on Computational Mechanics\*, June 29–July 1, 2023, Gangwon, Korea
+4. **Kim S**, Lee TH\* (2023) Influences of Data and Network Characteristics on Optimization Algorithm and Generalization Performance. _2023 KSCM Conference on Computational Mechanics_, June 29–July 1, 2023, Gangwon, Korea
 
 5. Lee TH, **Kim S** (2023) Influences of Hyperparameters at Optimization Algorithms in Artificial Neural Network Training. _KSME CAE & Applied Mechanics Division 2023 Conference_, May 17–20, 2023, Busan, Korea.
 
@@ -38,7 +38,7 @@ published: true
 
 7. **Kim S**, Kim H, Lee TH\* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. _KSME 2022 Conference_, November 9–12, 2022, Jeju, Korea.
 
-8. **Kim S**, Kim H, Choi S, Kim G, Huh K, Lee TH* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. *KSME CAE & Applied Mechanics Division 2022 Conference\*, May 19–21, 2022, Busan, Korea.
+8. **Kim S**, Kim H, Choi S, Kim G, Huh K, Lee TH\* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. _KSME CAE & Applied Mechanics Division 2022 Conference_, May 19–21, 2022, Busan, Korea.
 
 ## 🧾 Patents
 
