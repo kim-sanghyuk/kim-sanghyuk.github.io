@@ -18,7 +18,9 @@ published: true
 
 ## 🗣️ International Conference Papers
 
-1. **Kim S**, Kim H, Lee TH\* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. _15th World Congress of Structural and Multidisciplinary Optimization_, June 5–9, 2023, Cork, Ireland.
+1. **Kim S**, Seo M, Kang N\* (2025) Dynamics framework with neural fields for 3D spatio-temporal prediction of vehicle collisions. _ASME 2025 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2025)_, August 17–20, 2025, Anaheim, California, Paper No. DETC2025-167614.
+
+2. **Kim S**, Kim H, Lee TH\* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. _15th World Congress of Structural and Multidisciplinary Optimization_, June 5–9, 2023, Cork, Ireland.
 
 ---
 
