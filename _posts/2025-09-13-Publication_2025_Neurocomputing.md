@@ -5,7 +5,7 @@ author: "Sanghyuk Kim"
 date: 2025-09-13
 ---
 
-![Publication_2025_Neurocomputing](/images/Neurocomputing.jpg){: width="100%" height="100%"}
+![Publication_2025_Neurocomputing](/images/Neurocomputing.jpg){: width="50%" height="50%"}
 
 I am pleased to share that our paper has been accepted for publication in **Neurocomputing**.
 
