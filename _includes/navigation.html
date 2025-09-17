@@ -4,10 +4,11 @@
       <h2 class="nav-title">{{ site.title }}</h2>
     </a>
     <ul>
-      <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-      <li><a href="{{ '/research' | prepend: site.baseurl }}">Research</a></li>
-      <li><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
-      <li><a href="{{ site.baseurl }}/">News</a></li>
+      <li><a href="{{ '/about/'        | relative_url }}">About</a></li>
+      <li><a href="{{ '/research/'     | relative_url }}">Research</a></li>
+      <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
+      <li><a href="{{ '/awards/'       | relative_url }}">Awards</a></li>
+      <li><a href="{{ '/'              | relative_url }}">News</a></li>
     </ul>
   </div>
 </nav>
