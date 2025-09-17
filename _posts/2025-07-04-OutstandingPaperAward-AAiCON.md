@@ -4,6 +4,7 @@ title: "Outstanding Paper Award from 2025 Applied Artificial Intelligence Confer
 author: "Sanghyuk Kim"
 date: 2025-07-04
 categories: [awards]
+image: /images/20250704_AAiCON_award.jpg
 permalink: /posts/2025-07-04-OutstandingPaperAward-AAiCON
 ---
 
