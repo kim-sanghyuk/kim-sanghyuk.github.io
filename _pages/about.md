@@ -38,6 +38,8 @@ published: true
 
 ## 🏆 Honors & Awards
 
+**Outstanding Paper Award**, _2025 Applied Artificial Intelligence Conference (AAiCON)_, July 2025, Daejeon
+
 **Outstanding Paper Award**, _KSME CAE & Applied Mechanics Division 2022 Spring Conference_, May 2023
 
 **_Cum Laude_**, _Hanyang University, Seoul, Korea_, February 2021
