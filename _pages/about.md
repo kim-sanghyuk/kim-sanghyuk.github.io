@@ -6,14 +6,14 @@ permalink: /about/
 published: true
 ---
 
-<h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<h2 style="display: flex; align-items: center; justify-content: center; gap: 12px;">
   👨🏻‍🚀 Sanghyuk Kim, Ph.D. Student
-  <span>
+  <span style="display: flex; align-items: center; gap: 8px;">
     <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en" target="_blank">
-      <img src="/images/google_scholar_icon.png" alt="Google Scholar" width="28" style="vertical-align: middle;">
+      <img src="/images/google_scholar_icon.png" alt="Google Scholar" width="28">
     </a>
     <a href="https://www.linkedin.com/in/kim-sanghyuk/" target="_blank">
-      <img src="/images/linkedin_icon.png" alt="LinkedIn" width="28" style="vertical-align: middle; margin-left: 6px;">
+      <img src="/images/linkedin_icon.png" alt="LinkedIn" width="28">
     </a>
   </span>
 </h2>
