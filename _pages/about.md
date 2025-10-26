@@ -6,18 +6,19 @@ permalink: /about/
 published: true
 ---
 
-## 👨🏻‍🚀 Sanghyuk Kim, Ph.D. Student
+<h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  👨🏻‍🚀 Sanghyuk Kim, Ph.D. Student
+  <span>
+    <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en" target="_blank">
+      <img src="/images/google_scholar_icon.png" alt="Google Scholar" width="28" style="vertical-align: middle;">
+    </a>
+    <a href="https://www.linkedin.com/in/kim-sanghyuk/" target="_blank">
+      <img src="/images/linkedin_icon.png" alt="LinkedIn" width="28" style="vertical-align: middle; margin-left: 6px;">
+    </a>
+  </span>
+</h2>
 
 ![SanghyukKim](/images/SanghyukKim.jpg){: width="50%" height="50%"}
-
-<div style="text-align: center;">
-  <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en" target="_blank">
-    <img src="/images/google_scholar_icon.png" alt="Google Scholar" width="42" style="margin-right: 12px; vertical-align: middle;">
-  </a>
-  <a href="https://www.linkedin.com/in/kim-sanghyuk/" target="_blank">
-    <img src="/images/linkedin_icon.png" alt="LinkedIn" width="42" style="vertical-align: middle;">
-  </a>
-</div>
 
 **Sanghyuk Kim** is a Ph.D. Student in the [Department of Mechanical Engineering](https://me.kaist.ac.kr/eng/main/main.html) from [KAIST](https://www.kaist.ac.kr/) in Daejeon, Korea. He received his B.S. and M.S. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University (HYU)](https://www.hanyang.ac.kr/) in Seoul, Korea, in 2021 and 2023, respectively. He His research interests include scientific machine learning, physics-guided AI, data-driven design, design for additive manufacturing, design optimization, and optimization algorithms.
 
