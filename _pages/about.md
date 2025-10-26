@@ -10,12 +10,12 @@ published: true
 
 ![SanghyukKim](/images/SanghyukKim.jpg){: width="50%" height="50%"}
 
-<div style="text-align: center; margin-top: 8px; margin-bottom: 16px;">
-  <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en" target="_blank">
-    <img src="/images/google_scholar_icon.png" alt="Google Scholar" width="42" style="margin-right: 12px; vertical-align: middle;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px; margin-top: 8px; margin-bottom: 16px;">
+  <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en" target="_blank" style="display: inline-flex;">
+    <img src="/images/google_scholar_icon.png" alt="Google Scholar" width="42">
   </a>
-  <a href="https://www.linkedin.com/in/kim-sanghyuk/" target="_blank">
-    <img src="/images/linkedin_icon.png" alt="LinkedIn" width="42" style="vertical-align: middle;">
+  <a href="https://www.linkedin.com/in/kim-sanghyuk/" target="_blank" style="display: inline-flex;">
+    <img src="/images/linkedin_icon.png" alt="LinkedIn" width="42">
   </a>
 </div>
 
