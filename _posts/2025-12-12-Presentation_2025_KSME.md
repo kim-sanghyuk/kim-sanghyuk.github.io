@@ -3,7 +3,6 @@ layout: post
 title: "Oral and Poster Presentations at KSME Annual Conference 2025 in Jeongseon, Republic of Korea"
 author: "Sanghyuk Kim"
 date: 2024-12-12
-permalink: /posts/2024-12-12-OralPosterPresentations_2025_KSME
 ---
 
 ![OralPosterPresentation_2025_KSME](/images/20251212_KSME.jpg){: width="100%" height="100%"}
