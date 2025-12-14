@@ -28,7 +28,7 @@ published: true
 
 1. **Kim S**, Kim H, Kang N\* (2025) Generative AI-Driven Mixture-of-Experts Framework using Implicit Neural Representations for Additive Manufacturing. _KSME Annual Conference 2025_, December 10–12, 2025, Jeongseon, Korea.
 
-2. **Kim S** Han J, Kim S, Cho Y, Kang N\* (2025) Manufacturing-Aware 3D Geometry Post-Processing Framework via Depth Maps for 3-Axis CNC Milling. _KSME Annual Conference 2025_, December 10–12, 20254, Jeongseon, Korea.
+2. **Kim S** Han J, Kim S, Cho Y, Kang N\* (2025) Manufacturing-Aware 3D Geometry Post-Processing Framework via Depth Maps for 3-Axis CNC Milling. _KSME Annual Conference 2025_, December 10–12, 2025, Jeongseon, Korea.
 
 3. Kim S, Yang S, **Kim S**, Han J, Kang N\* (2025) Transformer-based Framework for Large-Scale 3D Flow Prediction. _KSME Annual Conference 2025_, December 10–12, 2025, Jeongseon, Korea.
 
