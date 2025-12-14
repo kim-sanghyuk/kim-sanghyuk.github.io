@@ -13,6 +13,6 @@ permalink: /posts/2025-07-04-OutstandingPaperAward-AAiCON
 </div>
 
 I'm honored to share that on July 3–4, 2025, I received the **Outstanding Paper Award** at the Applied Artificial Intelligence Conference (AAiCON) held in Daejeon, Korea.  
-Our paper, _"Spatio-Temporal Flow Field Prediction of Variable Multi-Cylinder Configurations via DeepONet,"_ was recognized for its contribution to advancing deep learning methods for complex fluid dynamics prediction.
+Our paper, _"Prediction of Unsteady Flow Fields for Varying Multi-Cylinder Arrangements Using DeepONet,"_ was recognized for its contribution to advancing deep learning methods for complex fluid dynamics prediction.
 
 This recognition motivates me to continue pushing the boundaries of AI-driven computational mechanics. Stay tuned for upcoming research updates!
