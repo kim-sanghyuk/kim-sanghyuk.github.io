@@ -5,7 +5,7 @@ author: "Sanghyuk Kim"
 date: 2025-12-12
 ---
 
-![OralPosterPresentation_2025_KSME](/images/20251212_KSME.jpg){: width="100%" height="100%"}
+![OralPosterPresentation_2025_KSME](/images/20251212_KSME2.jpg){: width="100%" height="100%"}
 
 On December 12, 2025, I delivered both an oral presentation and a poster presentation at the Korean Society of Mechanical Engineers (KSME) Annual Conference 2025, held in Jeongseon, Gangwon Province, Republic of Korea.
 
