@@ -10,11 +10,11 @@ published: true
 
 ## 📖 International Journal Papers
 
-3. **Kim S**, Seo M, Yang S\*, Kang N\* (2025) Rigid-Deformation Decomposition AI Framework for 3D Spatio-Temporal Prediction of Vehicle Collision Dynamics. *(under review)*
+3. **Kim S**, Seo M, Yang S\*, Kang N\* (2025) Rigid-Deformation Decomposition AI Framework for 3D Spatio-Temporal Prediction of Vehicle Collision Dynamics. _(under review)_
 
-2. **Kim S**, Kim H\*, Kang N, Lee TH\* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. [_Neurocomputing_](https://www.sciencedirect.com/journal/neurocomputing), 131568. [https://doi.org/10.1016/j.neucom.2025.131568](https://doi.org/10.1016/j.neucom.2025.131568)
+4. **Kim S**, Kim H\*, Kang N, Lee TH\* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. [_Neurocomputing_](https://www.sciencedirect.com/journal/neurocomputing), 131568. [https://doi.org/10.1016/j.neucom.2025.131568](https://doi.org/10.1016/j.neucom.2025.131568)
 
-1. Kim H, Wang C, Byun H, Hu W,\* **Kim S**, Jiao Q, Lee TH\* (2023) Variable three-term conjugate gradient method for training artificial neural networks. [_Neural Networks_](https://www.sciencedirect.com/journal/neural-networks) 159:125–136. [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
+5. Kim H, Wang C, Byun H, Hu W,\* **Kim S**, Jiao Q, Lee TH\* (2023) Variable three-term conjugate gradient method for training artificial neural networks. [_Neural Networks_](https://www.sciencedirect.com/journal/neural-networks) 159:125–136. [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
 
 ---
 
@@ -30,29 +30,29 @@ published: true
 
 13. **Kim S**, Kim H, Kang N\* (2025) Generative AI-Driven Mixture-of-Experts Framework using Implicit Neural Representations for Additive Manufacturing. _KSME Annual Conference 2025_, December 10–12, 2025, Jeongseon, Korea.
 
-12. **Kim S** Han J, Kim S, Cho Y, Kang N\* (2025) Manufacturing-Aware 3D Geometry Post-Processing Framework via Depth Maps for 3-Axis CNC Milling. _KSME Annual Conference 2025_, December 10–12, 2025, Jeongseon, Korea.
+14. **Kim S** Han J, Kim S, Cho Y, Kang N\* (2025) Manufacturing-Aware 3D Geometry Post-Processing Framework via Depth Maps for 3-Axis CNC Milling. _KSME Annual Conference 2025_, December 10–12, 2025, Jeongseon, Korea.
 
-11. Kim S, Yang S, **Kim S**, Han J, Kang N\* (2025) Transformer-based Framework for Large-Scale 3D Flow Prediction. _KSME Annual Conference 2025_, December 10–12, 2025, Jeongseon, Korea.
+15. Kim S, Yang S, **Kim S**, Han J, Kang N\* (2025) Transformer-based Framework for Large-Scale 3D Flow Prediction. _KSME Annual Conference 2025_, December 10–12, 2025, Jeongseon, Korea.
 
-10. **Kim S**, Yang S, Kim S, Han J, Cho B, Song C, Kang J, Song M, Kang N\* (2025) Prediction of Unsteady Flow Fields for Varying Multi-Cylinder Arrangements Using DeepONet. _Applied Artificial Intelligence Conference (AAiCON)_, July 3–4, 2025, Daejeon, Korea. <span style="color:#DC143C;"><b><i>Outstanding paper award</i></b></span>
+16. **Kim S**, Yang S, Kim S, Han J, Cho B, Song C, Kang J, Song M, Kang N\* (2025) Prediction of Unsteady Flow Fields for Varying Multi-Cylinder Arrangements Using DeepONet. _Applied Artificial Intelligence Conference (AAiCON)_, July 3–4, 2025, Daejeon, Korea. <span style="color:#DC143C;"><b><i>Outstanding paper award</i></b></span>
 
-9. Han J, Kim S, **Kim S**, Yang S, Cho B, Song C, Kang J, Song M, Kang N\* (2025) Time-Series Flow Field Prediction of Multi-Cylinder using Spatio-Temporal Coordinate-based Neural Network. KSME CAE & Applied Mechanics Division 2025 Conference, April 17–19, 2025, Jeju, Korea.
+17. Han J, Kim S, **Kim S**, Yang S, Cho B, Song C, Kang J, Song M, Kang N\* (2025) Time-Series Flow Field Prediction of Multi-Cylinder using Spatio-Temporal Coordinate-based Neural Network. KSME CAE & Applied Mechanics Division 2025 Conference, April 17–19, 2025, Jeju, Korea.
 
-8. **Kim S**, Yang S, Kim S, Han J, Cho B, Song C, Kang J, Song M, Kang N\* (2025) Spatio-Temporal Flow Field Prediction of Variable Multi-Cylinder Configurations via DeepONet. _KSME CAE & Applied Mechanics Division 2025 Conference_, April 17–19, 2025, Jeju, Korea.
+18. **Kim S**, Yang S, Kim S, Han J, Cho B, Song C, Kang J, Song M, Kang N\* (2025) Spatio-Temporal Flow Field Prediction of Variable Multi-Cylinder Configurations via DeepONet. _KSME CAE & Applied Mechanics Division 2025 Conference_, April 17–19, 2025, Jeju, Korea.
 
-7. **Kim S**, Seo M, Kang N\* (2024) 3D Spatiotemporal Prediction of Vehicle Collision Dynamics via Implicit Neural Representations. _KSME 2024 Conference_, November 6–9, 2024, Jeju, Korea.
+19. **Kim S**, Seo M, Kang N\* (2024) 3D Spatiotemporal Prediction of Vehicle Collision Dynamics via Implicit Neural Representations. _KSME 2024 Conference_, November 6–9, 2024, Jeju, Korea.
 
-6. **Kim S**, Seo M, Kang N\* (2024) Spatiotemporal Prediction of Structures via Implicit Neural Representations. _KSME CAE & Applied Mechanics Division 2024 Conference_, May 1–4, 2024, Jeju, Korea.
+20. **Kim S**, Seo M, Kang N\* (2024) Spatiotemporal Prediction of Structures via Implicit Neural Representations. _KSME CAE & Applied Mechanics Division 2024 Conference_, May 1–4, 2024, Jeju, Korea.
 
-5. **Kim S**, Lee TH\* (2023) Influences of Data and Network Characteristics on Optimization Algorithm and Generalization Performance. _2023 KSCM Conference on Computational Mechanics_, June 29–July 1, 2023, Gangwon, Korea
+21. **Kim S**, Lee TH\* (2023) Influences of Data and Network Characteristics on Optimization Algorithm and Generalization Performance. _2023 KSCM Conference on Computational Mechanics_, June 29–July 1, 2023, Gangwon, Korea
 
-4. Lee TH, **Kim S** (2023) Influences of Hyperparameters at Optimization Algorithms in Artificial Neural Network Training. _KSME CAE & Applied Mechanics Division 2023 Conference_, May 17–20, 2023, Busan, Korea.
+22. Lee TH, **Kim S** (2023) Influences of Hyperparameters at Optimization Algorithms in Artificial Neural Network Training. _KSME CAE & Applied Mechanics Division 2023 Conference_, May 17–20, 2023, Busan, Korea.
 
-3. Lee TH, **Kim S**, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. _KSME 2022 Conference_, November 9–12, 2022, Jeju, Korea.
+23. Lee TH, **Kim S**, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. _KSME 2022 Conference_, November 9–12, 2022, Jeju, Korea.
 
-2. **Kim S**, Kim H, Lee TH\* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. _KSME 2022 Conference_, November 9–12, 2022, Jeju, Korea. <span style="color:#DC143C;"><b><i>Outstanding paper award</i></b></span>
+24. **Kim S**, Kim H, Lee TH\* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. _KSME 2022 Conference_, November 9–12, 2022, Jeju, Korea. <span style="color:#DC143C;"><b><i>Outstanding paper award</i></b></span>
 
-1. **Kim S**, Kim H, Choi S, Kim G, Huh K, Lee TH\* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. _KSME CAE & Applied Mechanics Division 2022 Conference_, May 19–21, 2022, Busan, Korea.
+25. **Kim S**, Kim H, Choi S, Kim G, Huh K, Lee TH\* (2022) Improved adaptive three-term conjugate gradient algorithm for training artificial neural networks. _KSME CAE & Applied Mechanics Division 2022 Conference_, May 19–21, 2022, Busan, Korea.
 
 ## 🧾 Patents
 
