@@ -8,7 +8,7 @@ published: true
 
 ## 👨🏻‍🚀 Sanghyuk Kim, Ph.D. Student
 
-![SanghyukKim](/images/SanghyukKim.jpg){: width="50%" height="50%"}
+![SanghyukKim](/images/SanghyukKim.jpg){: width="40%" height="40%"}
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 16px; margin-top: 8px; margin-bottom: 16px;">
   <a href="https://scholar.google.com/citations?user=RpcCyLQAAAAJ&hl=en" target="_blank" style="display: inline-flex;">
