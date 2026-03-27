@@ -5,7 +5,7 @@ author: "Sanghyuk Kim"
 permalink: /research/
 ---
 
-<div style="border:1.5px solid #d0d7de; border-radius:10px; padding:24px 28px; margin-bottom:32px; background-color:#f8f9fa;">
+<div style="border-left:4px solid #0066cc; padding:16px 24px; margin-bottom:40px;">
 
 <h2 style="margin-top:0;">Scientific Machine Learning</h2>
 
@@ -28,7 +28,7 @@ This study presents a <strong>rigid-deformation decomposition AI framework</stro
 
 </div>
 
-<div style="border:1.5px solid #d0d7de; border-radius:10px; padding:24px 28px; margin-bottom:32px; background-color:#f8f9fa;">
+<div style="border-left:4px solid #28a745; padding:16px 24px; margin-bottom:40px;">
 
 <h2 style="margin-top:0;">Optimization Algorithm</h2>
 
