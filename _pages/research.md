@@ -5,6 +5,8 @@ author: "Sanghyuk Kim"
 permalink: /research/
 ---
 
+<div class="research-section" markdown="1">
+
 ## Scientific Machine Learning
 
 ![Vehicle Collision Dynamics](/images/20260327_Vehicle.png){: width="100%" height="100%"}
@@ -15,13 +17,14 @@ This study presents a **rigid-deformation decomposition AI framework** for 3D sp
 
 - **Kim S**, Seo M, Yang S, Kang N (2025) Rigid-Deformation Decomposition AI Framework for 3D Spatio-Temporal Prediction of Vehicle Collision Dynamics. _arXiv preprint_ arXiv:2503.19712. [https://arxiv.org/abs/2503.19712](https://arxiv.org/abs/2503.19712)
 
-<div style="text-align:center; margin:16px 0;">
-<a href="https://sanghyuk-kim.me/project" target="_blank" style="display:inline-block; padding:12px 28px; background-color:#0066cc; color:#ffffff; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px;">🔗 Project Page — Live Demo Available</a>
+<div class="research-btn-wrap">
+<a href="https://sanghyuk-kim.me/project" target="_blank" class="research-btn">🔗 Project Page — Live Demo Available</a>
+</div>
+<p class="research-demo-note">Try the live demo of vehicle collision simulation on the project page.</p>
+
 </div>
 
-> Try the **live demo** of vehicle collision simulation on the project page.
-
----
+<div class="research-section" markdown="1">
 
 ## Optimization Algorithm
 
@@ -35,3 +38,5 @@ By stabilizing the optimization path through geometric projection, PVTTCG consis
 - **Kim S**, Kim H\*, Kang N, Lee TH\* (2025) Projected variable three-term conjugate gradient algorithm for enhancing generalization performance in deep neural network training. [_Neurocomputing_](https://www.sciencedirect.com/journal/neurocomputing), 131568. [https://doi.org/10.1016/j.neucom.2025.131568](https://doi.org/10.1016/j.neucom.2025.131568)
 
 - Kim H, Wang C, Byun H, Hu W\*, **Kim S**, Jiao Q, Lee TH\* (2023) Variable three-term conjugate gradient method for training artificial neural networks. [_Neural Networks_](https://www.sciencedirect.com/journal/neural-networks) 159:125–136. [https://doi.org/10.1016/j.neunet.2022.12.001](https://doi.org/10.1016/j.neunet.2022.12.001)
+
+</div>
