@@ -20,7 +20,9 @@ This study presents a <strong>rigid-deformation decomposition AI framework</stro
 <li><strong>Kim S</strong>, Seo M, Yang S, Kang N (2025) Rigid-Deformation Decomposition AI Framework for 3D Spatio-Temporal Prediction of Vehicle Collision Dynamics. <em>arXiv preprint</em> arXiv:2503.19712. <a href="https://arxiv.org/abs/2503.19712">https://arxiv.org/abs/2503.19712</a></li>
 </ul>
 
+<div style="text-align:center;">
 <a href="https://sanghyuk-kim.me/project" target="_blank" style="display:inline-block; padding:12px 28px; background-color:#0066cc; color:#ffffff; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; margin:8px 0;">🔗 Project Page — Live Demo Available</a>
+</div>
 
 <blockquote>Try the <strong>live demo</strong> of vehicle collision simulation on the project page.</blockquote>
 
