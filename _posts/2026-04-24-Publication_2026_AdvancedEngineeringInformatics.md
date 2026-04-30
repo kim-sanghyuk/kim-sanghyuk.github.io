@@ -9,6 +9,6 @@ date: 2026-04-24
 
 I am pleased to share that our paper has been accepted for publication in _**Advanced Engineering Informatics**_.
 
-**Kim S**, Seo M, Yang S\*, Kang N\* (2026) Rigid-Deformation Decomposition AI Framework for 3D Spatio-Temporal Prediction of Vehicle Collision Dynamics. [_Advanced Engineering Informatics_](https://www.sciencedirect.com/journal/advanced-engineering-informatics) _(Accepted)_. [https://arxiv.org/abs/2503.19712](https://arxiv.org/abs/2503.19712)
+**Kim S**, Seo M, Yang S\*, Kang N\* (2026) Rigid-Deformation Decomposition AI Framework for 3D Spatio-Temporal Prediction of Vehicle Collision Dynamics. [_Advanced Engineering Informatics_](https://www.sciencedirect.com/journal/advanced-engineering-informatics), 104749. [https://doi.org/10.1016/j.aei.2026.104749](https://doi.org/10.1016/j.aei.2026.104749)
 
 This work proposes a **rigid-deformation decomposition framework** that decouples global rigid-body motion from local deformation via two scale-specific networks (_**RigidNet**_ and _**DeformationNet**_), mitigating the spectral bias of implicit neural representations and enabling accurate, physically interpretable predictions of 3D spatio-temporal vehicle collision dynamics.
