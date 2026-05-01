@@ -9,7 +9,12 @@ permalink: /research/
 
 ## Scientific Machine Learning
 
-![Vehicle Collision Dynamics](/images/20260327_Vehicle.png){: width="100%" height="100%"}
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; margin-bottom:1rem; border-radius:4px;">
+  <iframe src="https://player.vimeo.com/video/1188288123"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
+    title="Vehicle Collision Dynamics Demo"></iframe>
+</div>
 
 This study presents a **rigid-deformation decomposition AI framework** for 3D spatio-temporal prediction of vehicle collision dynamics. Conventional implicit neural representations struggle to capture high-frequency deformation modes in crash simulations. We address this by decoupling global rigid-body motion from local structural deformation through two scale-specific networks (_**RigidNet**_ and _**DeformationNet**_), achieving a 29.8% reduction in rigid-body motion error, a 17.2% reduction in total interpolation error, and a 46.6% reduction in angular extrapolation error compared to undecomposed baselines. The framework recovers 92% of the directional correlation and 96% of the spatial deformation localization accuracy relative to an oracle upper bound, enabling physically consistent predictions for nonlinear collision dynamics.
 
