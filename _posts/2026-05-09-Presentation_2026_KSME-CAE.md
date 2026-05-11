@@ -5,7 +5,7 @@ author: "Sanghyuk Kim"
 date: 2026-05-09
 ---
 
-![PosterPresentation_2026_KSME-CAE](/images/2026_KSME-CAE.png){: width="100%" height="100%"}
+![PosterPresentation_2026_KSME-CAE](/images/2026_KSME-CAE.jpg){: width="100%" height="100%"}
 
 From May 6 to 9, 2026, I delivered a presentation at the **KSME CAE & Applied Mechanics Division 2026 Conference**, held in Yeosu, Republic of Korea.
 
