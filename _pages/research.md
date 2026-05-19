@@ -16,7 +16,7 @@ permalink: /research/
     title="Vehicle Collision Dynamics Demo"></iframe>
 </div>
 
-This study presents a **rigid-deformation decomposition AI framework** for 3D spatio-temporal prediction of vehicle collision dynamics. Conventional implicit neural representations struggle to capture high-frequency deformation modes in crash simulations. We address this by decoupling global rigid-body motion from local structural deformation through two scale-specific networks (_**RigidNet**_ and _**DeformationNet**_), achieving a 29.8% reduction in rigid-body motion error, a 17.2% reduction in total interpolation error, and a 46.6% reduction in angular extrapolation error compared to undecomposed baselines. The framework recovers 92% of the directional correlation and 96% of the spatial deformation localization accuracy relative to an oracle upper bound, enabling physically consistent predictions for nonlinear collision dynamics.
+This research develops a **scientific machine learning framework** for predicting 3D vehicle collision dynamics by decomposing the response into global rigid-body motion and local structural deformation. Full-scale crash simulations require high computational cost because they must resolve nonlinear contact, plastic deformation, and multi-scale spatio-temporal behavior. By embedding physical decomposition into coordinate-based neural networks, the framework learns continuous collision fields with improved accuracy and physical consistency. This enables faster simulation-based design evaluation when repeated finite element analysis is impractical.
 
 **Reference:**
 
@@ -35,8 +35,7 @@ This study presents a **rigid-deformation decomposition AI framework** for 3D sp
 
 ![2025_NEUCOM_graphical_absract](/images/2025_NEUCOM_graphical_absract.png){: width="100%" height="100%"}
 
-This study introduces the **Projected Variable Three-Term Conjugate Gradient (PVTTCG)** algorithm, designed to overcome the trade-off between fast convergence and strong generalization in deep neural network training.
-By stabilizing the optimization path through geometric projection, PVTTCG consistently improves generalization performance across benchmarks and real-world applications such as vehicle crash prediction.
+Deep neural network training requires both fast convergence and strong generalization. This research develops a **projected variable three-term conjugate gradient algorithm** that improves the training path of neural networks by reducing convergence to sharp minima while maintaining the stability of higher-order optimization. The method supports more reliable model training across language modeling, image classification, and engineering prediction tasks, providing an optimization strategy for deep learning models used in complex engineering problems.
 
 **Reference:**
 
