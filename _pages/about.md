@@ -53,7 +53,7 @@ published: true
 
 **Teaching Assistant**, _Additive Manufacturing_, KAIST, Fall 2026
 
-**Teaching Assistant**, _Programming to Solve Mechanical Engineering Problems_, KAIST, Spring 2024 – Fall 2025 (4 semesters)
+**Teaching Assistant**, _Programming to Solve Mechanical Engineering Problems_, KAIST, Spring 2024 – Fall 2025
 
 ---
 
@@ -64,11 +64,3 @@ published: true
 **Outstanding Paper Award**, _KSME CAE & Applied Mechanics Division 2022 Spring Conference_, May 2023
 
 **_Cum Laude_**, _Hanyang University, Seoul, Korea_, February 2021
-
-**Hanyang Academic Excellence Awards**, _Hanyang University, Seoul, Korea_, October 2020
-
-**Hanyang Academic Excellence Awards**, _Hanyang University, Seoul, Korea_, March 2020
-
-**Hanyang Academic Excellence Awards**, _Hanyang University, Seoul, Korea_, October 2018
-
-**Hanyang Academic Excellence Awards**, _Hanyang University, Seoul, Korea_, October 2017
