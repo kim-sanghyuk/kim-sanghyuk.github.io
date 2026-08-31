@@ -49,6 +49,14 @@ published: true
 
 ---
 
+## 👨‍🏫 Teaching Experience
+
+**Teaching Assistant**, _Additive Manufacturing_, KAIST, Fall 2026
+
+**Teaching Assistant**, _Programming to Solve Mechanical Engineering Problems_, KAIST, Spring 2024 – Fall 2025 (4 semesters)
+
+---
+
 ## 🏆 Honors & Awards
 
 **Outstanding Paper Award**, _2025 Applied Artificial Intelligence Conference (AAiCON)_, July 2025, Daejeon
