@@ -49,7 +49,7 @@ published: true
 
 ---
 
-## 👨‍🏫 Teaching Experience
+## Teaching Experience
 
 **Teaching Assistant**, _Additive Manufacturing_, KAIST, Fall 2026
 
