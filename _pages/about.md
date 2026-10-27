@@ -22,7 +22,7 @@ published: true
   </a>
 </div>
 
-**Sanghyuk Kim** is a Ph.D. candidate in the [Department of Mechanical Engineering](https://me.kaist.ac.kr/eng/main/main.html) at [KAIST](https://www.kaist.ac.kr/) in Daejeon, Korea. He received his B.S. and M.S. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) in Seoul, Korea, in 2021 and 2023, respectively. His research focuses on **AI for Engineering Design and Discovery**, spanning design optimization, scientific machine learning, physics-guided AI, and engineering problem formulation.
+**Sanghyuk Kim** is a Ph.D. candidate in the [Department of Mechanical Engineering](https://me.kaist.ac.kr/eng/main/main.html) at [KAIST](https://www.kaist.ac.kr/) in Daejeon, Korea. He received his B.S. and M.S. in [Automotive Engineering](https://ae.hanyang.ac.kr/) from [Hanyang University](https://www.hanyang.ac.kr/) in Seoul, Korea, in 2021 and 2023, respectively. His research focuses on **AI-driven Engineering Design and Discovery**, spanning design optimization, scientific machine learning, physics-guided AI, and engineering problem formulation.
 
 ### 📧 E-mail
 
