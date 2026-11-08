@@ -10,7 +10,7 @@ published: true
 
 ## 📖 International Journal Papers
 
-1. **Kim S**, Kim H\*, Kang N\* (2026) Multiscale topology optimization for qualitative design intent: structural geometry and programmed yielding with graded TPMS. _(submitted)_
+1. **Kim S**, Kim H\*, Kang N\* (2026) Multiscale topology optimization for qualitative design intent: programmed yielding and mechanical reachability with graded TPMS. _(under review)_
 
 2. **Kim S**, Seo M, Yang S\*, Kang N\* (2026) Rigid-Deformation Decomposition AI Framework for 3D Spatio-Temporal Prediction of Vehicle Collision Dynamics. [_Advanced Engineering Informatics_](https://www.sciencedirect.com/journal/advanced-engineering-informatics) <span style="background-color:#fff3cd; padding:1px 5px; border-radius:2px;">**(IF: 11.5, JCR Q1, top 2.0%)**</span>, 104749. [https://doi.org/10.1016/j.aei.2026.104749](https://doi.org/10.1016/j.aei.2026.104749)
 
